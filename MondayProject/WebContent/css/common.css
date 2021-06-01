@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+   * { margin:0; padding:0;  }
+   a { text-decoration: none; color:black;  }
+   a:hover { text-decoration: underline;  color:brown;  }
+   table, th, td {   
+      border:1px solid red;
+      border-collapse: collapse;
+   }
+   table { 
+      width:800px; 
+      margin : 0 auto;
+   }
+   td {
+      padding: 10px;  
+      text-align:center; 
+   }
+  
+   .left   { text-align:left; }
+   .center { text-align:center; }
+   .right  { text-align:right; }
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   

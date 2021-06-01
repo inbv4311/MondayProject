@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*로그인/회원가입 section*/
+	body{
+	z-index: -1;
+	
+	}
+	section{
+	position:relative;
+	padding-bottom:100px;
+	width:100%;
+	height: 400px;
+	/*overflow: scroll; */
+ 	/* background: red; */
+ 	margin-bottom:500px;
+	top:0;
+	}
+	
+	.member{
+		width: 345px;		
+		height:450px;
+		/* background: pink; */
+		margin: 0 auto;
+		padding-top:50px;
+
+	}
+	input::placeholder{
+		font-size: 15px;
+		
+	}
+	input[type="text"], input[type="password"] { 
+			height:50px;
+            width:345px;
+			font-size: 15px;
+            margin-bottom: 5px;
+            font-size: 20px;
+	}
+	
+	#login_btn{
+		height:50px;
+        width:345px;
+		background: #000;
+		font-size: 20px;
+		color: #fff;
+	}
+	
+	.title{
+		font-size: 50px;
+/*		background: ;*/
+		text-align: center;
+		margin-bottom: 74px;
+		
+
+		
+	}
+	.login_txt1{
+		margin-top:20px;
+		font-size: 14px;
+		width:345px;
+		text-align: center;
+	}
